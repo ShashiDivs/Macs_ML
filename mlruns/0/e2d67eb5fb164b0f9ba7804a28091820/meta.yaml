@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/e2d67eb5fb164b0f9ba7804a28091820/artifacts
+end_time: 1705497862550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2d67eb5fb164b0f9ba7804a28091820
+run_name: entertaining-dog-832
+run_uuid: e2d67eb5fb164b0f9ba7804a28091820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705497859682
+status: 3
+tags: []
+user_id: abc
