@@ -56,6 +56,7 @@ class ModelEvaluation:
                     # please refer to the doc for more information:
                     # https://mlflow.org/docs/latest/model-registry.html#api-workflow
                     mlflow.sklearn.log_model(model, "model", registered_model_name="ml_model")
+                    logging.info("Mlflow has captured the metrics....")
                 else:
                     mlflow.sklearn.log_model(model, "model")
 

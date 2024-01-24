@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/b9ffae30b9394389906b2641cf4ade9f/artifacts
+end_time: 1705897872182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9ffae30b9394389906b2641cf4ade9f
+run_name: masked-doe-552
+run_uuid: b9ffae30b9394389906b2641cf4ade9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705897869315
+status: 3
+tags: []
+user_id: abc
